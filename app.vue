@@ -1,6 +1,6 @@
 <script setup>
 useHead({
-  htmlAttrs: { lang: "en-US" },
+  htmlAttrs: { lang: "zh-CN" },
   title: "Nuxt Starter",
   meta: [
     {

@@ -18,7 +18,7 @@ Clicking this button will create a new repo for you that looks exactly like this
 
 ## Features
 
-- 🚀 Nuxt 3 with Vue 3
+- 🚀 Nuxt 4 with Vue 3
 - 🎨 Tailwind CSS for styling
 - 🖼️ Nuxt Image for optimized image handling
 - 🎯 Nuxt Icon for easy icon integration
@@ -27,7 +27,7 @@ Clicking this button will create a new repo for you that looks exactly like this
 
 A customizable Nuxt starter using:
 
-- [Nuxt](https://nuxt.com/) v3.x
+- [Nuxt](https://nuxt.com/) v4.x
 - [Tailwind CSS](https://tailwindcss.com/) v4.x
 - [Nuxt Icon](https://nuxt.com/modules/icon)
 - [Nuxt Image](https://nuxt.com/modules/image)
@@ -73,7 +73,7 @@ $ npm run preview
 Here are a few suggestions on what to do next:
 
 - Check [Nuxt on Netlify documentation](https://docs.netlify.com/frameworks/nuxt/).
-- Check [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+- Check [Nuxt 4 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 - Explore [Tailwind CSS documentation](https://tailwindcss.com/docs) for styling options
 
 ## Support

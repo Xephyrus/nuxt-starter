@@ -1,6 +1,7 @@
-// app.config.ts
+// ~/app.config.ts
 export default defineAppConfig({
-  nuxtIcon: {
-    class: "",
-  },
-});
+  icon: {
+    mode: 'css',
+    cssLayer: 'base'
+  }
+})
